@@ -1,0 +1,7621 @@
+[
+  {
+    "id": 1,
+    "name": "Rick Sanchez",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Morty Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Summer Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      38,
+      39,
+      40
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Beth Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      15,
+      16,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      38,
+      39,
+      40
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Jerry Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      26,
+      29,
+      30,
+      31,
+      32,
+      33,
+      35,
+      36,
+      38,
+      39,
+      40
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Abadango Cluster Princess",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      27
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Abradolf Lincler",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Genetic experiment",
+    "gender": "Male",
+    "episode": [
+      10,
+      11
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Adjudicator Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Agency Director",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      24
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Alan Rails",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Superhuman (Ghost trains summoner)",
+    "gender": "Male",
+    "episode": [
+      25
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Albert Einstein",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      12
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Alexander",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Alien Googah",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      31
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Alien Morty",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Alien Rick",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Amish Cyborg",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "episode": [
+      15
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Annie",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Antenna Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Human with antennae",
+    "gender": "Male",
+    "episode": [
+      10,
+      28
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Antenna Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Human with antennae",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Ants in my Eyes Johnson",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Human with ants in his eyes",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Aqua Morty",
+    "status": "unknown",
+    "species": "Humanoid",
+    "type": "Fish-Person",
+    "gender": "Male",
+    "episode": [
+      10,
+      22
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Aqua Rick",
+    "status": "unknown",
+    "species": "Humanoid",
+    "type": "Fish-Person",
+    "gender": "Male",
+    "episode": [
+      10,
+      22,
+      28
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Arcade Alien",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      13,
+      19,
+      21,
+      25,
+      26
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Armagheadon",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Cromulon",
+    "gender": "Male",
+    "episode": [
+      16
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Armothy",
+    "status": "Dead",
+    "species": "unknown",
+    "type": "Self-aware arm",
+    "gender": "Male",
+    "episode": [
+      23
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Arthricia",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Cat-Person",
+    "gender": "Female",
+    "episode": [
+      20
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Artist Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10,
+      28
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Attila Starwar",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8,
+      13,
+      17
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Baby Legs",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Human with baby legs",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Baby Poopybutthole",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      31
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Baby Wizard",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "episode": [
+      15
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Bearded Lady",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Female",
+    "episode": [
+      15
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Beebo",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      29
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Benjamin",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8,
+      13,
+      17
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Bepisian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Bepisian",
+    "gender": "unknown",
+    "episode": [
+      1,
+      11,
+      19,
+      25
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Beta-Seven",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Hivemind",
+    "gender": "unknown",
+    "episode": [
+      14
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Beth Sanchez",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Beth Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      22
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Beth Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Beth's Mytholog",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Mytholog",
+    "gender": "Female",
+    "episode": [
+      18
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Big Boobed Waitress",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      5
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Big Head Morty",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Human with giant head",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Big Morty",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Body Guard Morty",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Bill",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Bill",
+    "status": "unknown",
+    "species": "Animal",
+    "type": "Dog",
+    "gender": "Male",
+    "episode": [
+      2
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Birdperson",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Bird-Person",
+    "gender": "Male",
+    "episode": [
+      11,
+      16,
+      21,
+      22,
+      26
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Black Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      22,
+      28
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Blamph",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Blim Blam",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Korblock",
+    "gender": "Male",
+    "episode": [
+      14
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Blue Diplomat",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Blue Footprint Guy",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      23
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Blue Shirt Morty",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Bobby Moynihan",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Boobloosian",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Boobloosian",
+    "gender": "unknown",
+    "episode": [
+      18,
+      21
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Bootleg Portal Chemist Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Borpocian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Elephant-Person",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Brad",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      6,
+      11,
+      30
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Brad Anderson",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      7
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Calypso",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Superhuman",
+    "gender": "Female",
+    "episode": [
+      25
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Campaign Manager Morty",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Canklanker Thom",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gromflomite",
+    "gender": "Male",
+    "episode": [
+      1
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Centaur",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Centaur",
+    "gender": "Male",
+    "episode": [
+      2
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Chris",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Organic gun",
+    "gender": "unknown",
+    "episode": [
+      12
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Chris",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Microverse inhabitant",
+    "gender": "Male",
+    "episode": [
+      17
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Coach Feratu (Balik Alistane)",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Vampire",
+    "gender": "Male",
+    "episode": [
+      18
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Collector",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Light bulb-Alien",
+    "gender": "Male",
+    "episode": [
+      29
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Colossus",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      23
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Commander Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Concerto",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      24
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Conroy",
+    "status": "Dead",
+    "species": "Robot",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Cool Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Cop Morty",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Cop Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Courier Flap",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      21
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Cousin Nicky",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "episode": [
+      15
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Cowboy Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Cowboy Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10,
+      28
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Crab Spider",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Animal",
+    "gender": "unknown",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Creepy Little Girl",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      2
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Crocubot",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Robot-Crocodile hybrid",
+    "gender": "Male",
+    "episode": [
+      25
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Cronenberg Rick",
+    "status": "unknown",
+    "species": "Cronenberg",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      6,
+      10
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Cronenberg Morty",
+    "status": "unknown",
+    "species": "Cronenberg",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      6,
+      10
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Cult Leader Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Cyclops Morty",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10,
+      28
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Cyclops Rick",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10,
+      22,
+      28
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Cynthia",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Zigerion",
+    "gender": "Female",
+    "episode": [
+      4
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Cynthia",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      8,
+      9,
+      11,
+      25
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Dale",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Giant",
+    "gender": "Male",
+    "episode": [
+      5
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Daron Jefferson",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Cone-nippled alien",
+    "gender": "Male",
+    "episode": [
+      14
+    ]
+  },
+  {
+    "id": 91,
+    "name": "David Letterman",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Davin",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Diablo Verde",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Demon",
+    "gender": "Male",
+    "episode": [
+      25
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Diane Sanchez",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Dipper and Mabel Mortys",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Tuberculosis",
+    "status": "Dead",
+    "species": "Disease",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Gonorrhea",
+    "status": "Dead",
+    "species": "Disease",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Hepatitis A",
+    "status": "Dead",
+    "species": "Disease",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Hepatitis C",
+    "status": "Dead",
+    "species": "Disease",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Bubonic Plague",
+    "status": "Dead",
+    "species": "Disease",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 101,
+    "name": "E. Coli",
+    "status": "Dead",
+    "species": "Disease",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Donna Gueterman",
+    "status": "Dead",
+    "species": "Robot",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      21
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Doofus Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10,
+      22
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Doom-Nomitron",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Shapeshifter",
+    "gender": "unknown",
+    "episode": [
+      25
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Dr. Glip-Glop",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Dr. Schmidt",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Game",
+    "gender": "Male",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Dr. Wong",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      24
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Dr. Xenon Bloom",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Amoeba-Person",
+    "gender": "Male",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Duck With Muscles",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "episode": [
+      15
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Eli",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      23
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Eli's Girlfriend",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      23
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Eric McMan",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Eric Stoltz Mask Morty",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Ethan",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Cronenberg",
+    "gender": "Male",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Ethan",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      16,
+      26
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Evil Beth Clone",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Clone",
+    "gender": "Female",
+    "episode": [
+      5
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Evil Jerry Clone",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Clone",
+    "gender": "Male",
+    "episode": [
+      5
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Evil Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10,
+      28
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Evil Rick",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Robot",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Evil Summer Clone",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Clone",
+    "gender": "Female",
+    "episode": [
+      5
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Eyehole Man",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Fart",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Interdimensional gaseous being",
+    "gender": "Male",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Fat Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Father Bob",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      16,
+      27
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Flansian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Flansian",
+    "gender": "unknown",
+    "episode": [
+      18,
+      21,
+      25
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Fleeb",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Frank Palicky",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      1
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Frankenstein's Monster",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "episode": [
+      15
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Fulgora",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      8,
+      13,
+      17
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Galactic Federation President",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gromflomite",
+    "gender": "Male",
+    "episode": [
+      21
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Gar Gloonch",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Zombodian",
+    "gender": "Male",
+    "episode": [
+      13,
+      18,
+      21
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Gar's Mytholog",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Mytholog",
+    "gender": "Male",
+    "episode": [
+      18
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Garblovian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Garblovian",
+    "gender": "Male",
+    "episode": [
+      13,
+      19,
+      21
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Garmanarnar",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Garment District Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Gazorpazorpfield",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Gazorpian",
+    "gender": "Male",
+    "episode": [
+      8,
+      13
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Gene",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      26
+    ]
+  },
+  {
+    "id": 138,
+    "name": "General Nathan",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      16
+    ]
+  },
+  {
+    "id": 139,
+    "name": "General Store Owner",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Cat-Person",
+    "gender": "Male",
+    "episode": [
+      20
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Genital Washer",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      23
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Ghost in a Jar",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Genderless",
+    "episode": [
+      15
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Gibble Snake",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Animal",
+    "gender": "unknown",
+    "episode": [
+      26
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Glasses Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Glenn",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gromflomite",
+    "gender": "Male",
+    "episode": [
+      1
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Glenn",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Eat shiter-Person",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Glexo Slim Slom",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      18
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Gobo",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      29
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Goddess Beth",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "type": "Goddess",
+    "gender": "Female",
+    "episode": [
+      18
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Gordon Lunas",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      29
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Cornvelious Daniel",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gromflomite",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Gwendolyn",
+    "status": "unknown",
+    "species": "Robot",
+    "type": "Gazorpian reproduction robot",
+    "gender": "Female",
+    "episode": [
+      7
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Hammerhead Morty",
+    "status": "unknown",
+    "species": "Humanoid",
+    "type": "Hammerhead-Person",
+    "gender": "Male",
+    "episode": [
+      10,
+      22
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Hamster In Butt",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      8,
+      19
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Hamurai",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "episode": [
+      15
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Harold",
+    "status": "Alive",
+    "species": "Cronenberg",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      6
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Hemorrhage",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      23
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Hole in the Wall Where the Men Can See it All",
+    "status": "unknown",
+    "species": "unknown",
+    "type": "Hole",
+    "gender": "Genderless",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Hookah Alien",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Tuskfish",
+    "gender": "unknown",
+    "episode": [
+      1
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Hunter",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Clone",
+    "gender": "Male",
+    "episode": [
+      17
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Hunter's Father",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      17
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Hydrogen-F",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Alphabetrian",
+    "gender": "Female",
+    "episode": [
+      16
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Ice-T",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Alphabetrian",
+    "gender": "Male",
+    "episode": [
+      16
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Ideal Jerry",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Mytholog",
+    "gender": "Male",
+    "episode": [
+      18
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Insurance Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Investigator Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Invisi-trooper",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      31
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Izzy",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Cat",
+    "gender": "unknown",
+    "episode": [
+      24
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Jackie",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Gazorpian",
+    "gender": "Female",
+    "episode": [
+      7
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Jacob",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      3,
+      15
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Jacqueline",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      27
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Jaguar",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      24
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Jamey",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      16
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Jan-Michael Vincent",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Jerry 5-126",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Jerry Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      22
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Celebrity Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Jerry Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Jerry's Mytholog",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Mytholog",
+    "gender": "Male",
+    "episode": [
+      18
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Jessica",
+    "status": "Alive",
+    "species": "Cronenberg",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      1,
+      4,
+      6
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Jessica",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      11,
+      13,
+      17,
+      18,
+      26,
+      27,
+      28,
+      29,
+      30,
+      32,
+      39
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Jessica's Friend",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      1,
+      4,
+      6,
+      11,
+      17,
+      18,
+      25,
+      27
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Jim",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      16
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Johnny Depp",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Jon",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Gazorpian",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Joseph Eli Lipkip",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      30
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Joyce Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Juggling Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Karen Entity",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Unknown-nippled alien",
+    "gender": "Female",
+    "episode": [
+      14
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Katarina",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      24
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Keara",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Krootabulan",
+    "gender": "Female",
+    "episode": [
+      30
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Kevin",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Zigerion",
+    "gender": "Male",
+    "episode": [
+      4
+    ]
+  },
+  {
+    "id": 192,
+    "name": "King Flippy Nips",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Plutonian",
+    "gender": "Male",
+    "episode": [
+      9
+    ]
+  },
+  {
+    "id": 193,
+    "name": "King Jellybean",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Jellybean",
+    "gender": "Male",
+    "episode": [
+      5
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Kozbian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Tentacle alien",
+    "gender": "unknown",
+    "episode": [
+      21
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Kristen Stewart",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Krombopulos Michael",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gromflomite",
+    "gender": "Male",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Kyle",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Miniverse inhabitant",
+    "gender": "Male",
+    "episode": [
+      17
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Lady Katana",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Cyborg",
+    "gender": "Female",
+    "episode": [
+      25
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Larva Alien",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Larva alien",
+    "gender": "unknown",
+    "episode": [
+      16,
+      19,
+      21
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Lawyer Morty",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Leonard Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Lighthouse Keeper",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Cat-Person",
+    "gender": "Male",
+    "episode": [
+      20
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Lil B",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Snail alien",
+    "gender": "Male",
+    "episode": [
+      21
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Lisa",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      26
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Little Dipper",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Tinymouth",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Lizard Morty",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Lizard-Person",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Loggins",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Alligator-Person",
+    "gender": "Male",
+    "episode": [
+      8,
+      13,
+      17
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Logic",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      25
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Long Sleeved Morty",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Lucy",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      11
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Ma-Sha",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Gazorpian",
+    "gender": "Female",
+    "episode": [
+      7
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Magma-Q",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Alphabetrian",
+    "gender": "Male",
+    "episode": [
+      16
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Magnesium-J",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Alphabetrian",
+    "gender": "Male",
+    "episode": [
+      16
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Man Painted Silver Who Makes Robot Noises",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Maximums Rickimus",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10,
+      22
+    ]
+  },
+  {
+    "id": 216,
+    "name": "MC Haps",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      6,
+      11,
+      25
+    ]
+  },
+  {
+    "id": 217,
+    "name": "Mechanical Morty",
+    "status": "Dead",
+    "species": "Robot",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      23
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Mechanical Rick",
+    "status": "unknown",
+    "species": "Robot",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      23
+    ]
+  },
+  {
+    "id": 219,
+    "name": "Mechanical Summer",
+    "status": "unknown",
+    "species": "Robot",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      23
+    ]
+  },
+  {
+    "id": 220,
+    "name": "Mega Fruit Farmer Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Melissa",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Monster",
+    "gender": "Female",
+    "episode": [
+      2
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Michael Denny and the Denny Singers",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Michael Jenkins",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Michael McLick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Michael Thompson",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Conjoined twin",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Million Ants",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Sentient ant colony",
+    "gender": "Male",
+    "episode": [
+      25
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Mitch",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      27
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Mohawk Guy",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      23
+    ]
+  },
+  {
+    "id": 229,
+    "name": "Morty Mart Manager Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Morty Jr.",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Human Gazorpian",
+    "gender": "Male",
+    "episode": [
+      7
+    ]
+  },
+  {
+    "id": 231,
+    "name": "Morty Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Morty Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Morty K-22",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Morty Smith",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      6
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Mortytown Loco",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Mr. Beauregard",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "episode": [
+      15
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Mr. Benson",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      12
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Mr. Booby Buyer",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Boobie buyer reptilian",
+    "gender": "Male",
+    "episode": [
+      5
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Mr. Goldenfold",
+    "status": "Alive",
+    "species": "Cronenberg",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      1,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Mr. Goldenfold",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      9,
+      16,
+      17,
+      18,
+      21,
+      22,
+      24,
+      27,
+      30,
+      39
+    ]
+  },
+  {
+    "id": 241,
+    "name": "Mr. Marklovitz",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      4,
+      16
+    ]
+  },
+  {
+    "id": 242,
+    "name": "Mr. Meeseeks",
+    "status": "unknown",
+    "species": "Humanoid",
+    "type": "Meeseeks",
+    "gender": "Male",
+    "episode": [
+      5,
+      10,
+      13,
+      29,
+      32
+    ]
+  },
+  {
+    "id": 243,
+    "name": "Mr. Needful",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "The Devil",
+    "gender": "Male",
+    "episode": [
+      9
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Mr. Poopybutthole",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      15,
+      21,
+      29,
+      30,
+      31,
+      34
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Mrs. Lipkip",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      30
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Mrs. Pancakes",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      2,
+      27
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Mrs. Poopybutthole",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      31
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Mrs. Refrigerator",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Female",
+    "episode": [
+      15
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Mrs. Sanchez",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      1,
+      6,
+      14,
+      30
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Mrs. Sullivan",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Cat controlled dead lady",
+    "gender": "Female",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Nancy",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      6,
+      9,
+      11,
+      25,
+      29,
+      36
+    ]
+  },
+  {
+    "id": 252,
+    "name": "Noob-Noob",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      25
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Numbericon",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Numbericon",
+    "gender": "unknown",
+    "episode": [
+      16
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Octopus Man",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Octopus-Person",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 255,
+    "name": "Orthodox Jew",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      16
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Pat Gueterman",
+    "status": "Dead",
+    "species": "Robot",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      21
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Paul Fleishman",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Pawnshop Clerk",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      7
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Pencilvester",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "episode": [
+      15
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Phillip Jacobs",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Photography Cyborg",
+    "status": "unknown",
+    "species": "Robot",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      21
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Photography Raptor",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "unknown",
+    "episode": [
+      15
+    ]
+  },
+  {
+    "id": 263,
+    "name": "Pibbles Bodyguard",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Hairy alien",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 264,
+    "name": "Pichael Thompson",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Conjoined twin",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Pickle Rick",
+    "status": "Alive",
+    "species": "unknown",
+    "type": "Pickle",
+    "gender": "Male",
+    "episode": [
+      24
+    ]
+  },
+  {
+    "id": 266,
+    "name": "Piece of Toast",
+    "status": "Alive",
+    "species": "unknown",
+    "type": "Bread",
+    "gender": "Genderless",
+    "episode": [
+      8,
+      17
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Plumber Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Poncho",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 269,
+    "name": "Presidentress of The Mega Gargantuans",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Mega Gargantuan",
+    "gender": "Female",
+    "episode": [
+      31
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Prince Nebulon",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Zigerion",
+    "gender": "Male",
+    "episode": [
+      4
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Principal Vagina",
+    "status": "Alive",
+    "species": "Cronenberg",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Principal Vagina",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      9,
+      16,
+      18,
+      24,
+      27,
+      29
+    ]
+  },
+  {
+    "id": 273,
+    "name": "Purge Planet Ruler",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Cat-Person",
+    "gender": "Male",
+    "episode": [
+      20
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Quantum Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10,
+      22
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Randy Dicknose",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 276,
+    "name": "Rat Boss",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Rat",
+    "gender": "unknown",
+    "episode": [
+      24
+    ]
+  },
+  {
+    "id": 277,
+    "name": "Real Fake Doors Salesman",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 278,
+    "name": "Regional Manager Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 279,
+    "name": "Regular Legs",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 280,
+    "name": "Reverse Giraffe",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "episode": [
+      15
+    ]
+  },
+  {
+    "id": 281,
+    "name": "Reverse Rick Outrage",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 282,
+    "name": "Revolio Clockberg Jr.",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Gear-Person",
+    "gender": "Male",
+    "episode": [
+      11,
+      13,
+      25
+    ]
+  },
+  {
+    "id": 283,
+    "name": "Rick D. Sanchez III",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 284,
+    "name": "Rick Guilt Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 285,
+    "name": "Rick Prime",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10,
+      22
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Rick D-99",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Rick D716",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 288,
+    "name": "Rick D716-B",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 289,
+    "name": "Rick D716-C",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 290,
+    "name": "Rick Sanchez",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Rick J-22",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Rick K-22",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Rick Sanchez",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      6
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Ricktiminus Sancheziminius",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10,
+      22
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Riq IV",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10,
+      11,
+      22
+    ]
+  },
+  {
+    "id": 296,
+    "name": "Risotto Groupon",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Blue ape alien",
+    "gender": "Male",
+    "episode": [
+      26
+    ]
+  },
+  {
+    "id": 297,
+    "name": "Risotto's Tentacled Henchman",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Tentacle alien",
+    "gender": "Male",
+    "episode": [
+      26
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Robot Morty",
+    "status": "unknown",
+    "species": "Robot",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 299,
+    "name": "Robot Rick",
+    "status": "unknown",
+    "species": "Robot",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Roger",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Ron Benson",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Ring-nippled alien",
+    "gender": "Male",
+    "episode": [
+      14
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Ruben",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Samantha",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      5
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Scary Brandon",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Monster",
+    "gender": "Male",
+    "episode": [
+      2
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Scary Glenn",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Monster",
+    "gender": "Male",
+    "episode": [
+      2
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Scary Terry",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Monster",
+    "gender": "Male",
+    "episode": [
+      2
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Scroopy Noopers",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Plutonian",
+    "gender": "Male",
+    "episode": [
+      9
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Scropon",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Lobster-Alien",
+    "gender": "Male",
+    "episode": [
+      11,
+      21
+    ]
+  },
+  {
+    "id": 309,
+    "name": "Scrotian",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Scrotian",
+    "gender": "Male",
+    "episode": [
+      13,
+      16,
+      21,
+      25
+    ]
+  },
+  {
+    "id": 310,
+    "name": "Self-Congratulatory Jerry",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "type": "Mytholog",
+    "gender": "Male",
+    "episode": [
+      18
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Shimshamian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Shimshamian",
+    "gender": "Male",
+    "episode": [
+      13,
+      21,
+      25
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Shlaammi",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 313,
+    "name": "Shleemypants",
+    "status": "Alive",
+    "species": "unknown",
+    "type": "Omniscient being",
+    "gender": "Male",
+    "episode": [
+      12,
+      36
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Shmlamantha Shmlicelli",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 315,
+    "name": "Shmlangela Shmlobinson-Shmlower",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 316,
+    "name": "Shmlona Shmlobinson",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Shmlonathan Shmlower",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 318,
+    "name": "Shmlony Shmlicelli",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 319,
+    "name": "Shmooglite Runner",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Animal",
+    "gender": "Male",
+    "episode": [
+      26
+    ]
+  },
+  {
+    "id": 320,
+    "name": "Shnoopy Bloopers",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      26
+    ]
+  },
+  {
+    "id": 321,
+    "name": "Shrimply Pibbles",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 322,
+    "name": "Simple Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 323,
+    "name": "Slaveowner",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      23
+    ]
+  },
+  {
+    "id": 324,
+    "name": "Sleepy Gary",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "episode": [
+      15
+    ]
+  },
+  {
+    "id": 325,
+    "name": "Slick Morty",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 326,
+    "name": "Slippery Stair",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Slug",
+    "gender": "Male",
+    "episode": [
+      5,
+      11
+    ]
+  },
+  {
+    "id": 327,
+    "name": "Slow Mobius",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      11
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Slow Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Snuffles (Snowball)",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Dog",
+    "gender": "Male",
+    "episode": [
+      2,
+      7,
+      10,
+      15,
+      16,
+      24,
+      29,
+      30
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Solicitor Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10,
+      22
+    ]
+  },
+  {
+    "id": 331,
+    "name": "Squanchy",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Cat-Person",
+    "gender": "Male",
+    "episode": [
+      11,
+      16,
+      21
+    ]
+  },
+  {
+    "id": 332,
+    "name": "Stacy",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      27
+    ]
+  },
+  {
+    "id": 333,
+    "name": "Stair Goblin",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Stair goblin",
+    "gender": "Genderless",
+    "episode": [
+      5,
+      11,
+      25
+    ]
+  },
+  {
+    "id": 334,
+    "name": "Stealy",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 335,
+    "name": "Steve",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      31
+    ]
+  },
+  {
+    "id": 336,
+    "name": "Steven Phillips",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Unknown-nippled alien",
+    "gender": "Male",
+    "episode": [
+      14
+    ]
+  },
+  {
+    "id": 337,
+    "name": "Stu",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Zigerion",
+    "gender": "Male",
+    "episode": [
+      4
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Summer Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      22
+    ]
+  },
+  {
+    "id": 339,
+    "name": "Summer Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Supernova",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Superhuman",
+    "gender": "Female",
+    "episode": [
+      25
+    ]
+  },
+  {
+    "id": 341,
+    "name": "Taddy Mason",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      20
+    ]
+  },
+  {
+    "id": 342,
+    "name": "Taint Washer",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      23
+    ]
+  },
+  {
+    "id": 343,
+    "name": "Tammy Guetermann",
+    "status": "Alive",
+    "species": "Cronenberg",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Tammy Guetermann",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      11,
+      16,
+      21,
+      22
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Teacher Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 346,
+    "name": "Terry",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      16
+    ]
+  },
+  {
+    "id": 347,
+    "name": "The President",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      16,
+      31
+    ]
+  },
+  {
+    "id": 348,
+    "name": "The President of the Miniverse",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Miniverse inhabitant",
+    "gender": "Male",
+    "episode": [
+      17
+    ]
+  },
+  {
+    "id": 349,
+    "name": "The Scientist Formerly Known as Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Thomas Lipkip",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      30
+    ]
+  },
+  {
+    "id": 351,
+    "name": "Three Unknown Things",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Tinkles",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Female",
+    "episode": [
+      15
+    ]
+  },
+  {
+    "id": 353,
+    "name": "Tiny Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Clone",
+    "gender": "Male",
+    "episode": [
+      18
+    ]
+  },
+  {
+    "id": 354,
+    "name": "Toby Matthews",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      18
+    ]
+  },
+  {
+    "id": 355,
+    "name": "Todd Crystal",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Unknown-nippled alien",
+    "gender": "Male",
+    "episode": [
+      14
+    ]
+  },
+  {
+    "id": 356,
+    "name": "Tom Randolph",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      3
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Tommy's Clone",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Clone",
+    "gender": "Male",
+    "episode": [
+      30
+    ]
+  },
+  {
+    "id": 358,
+    "name": "Tophat Jones",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "type": "Leprechaun",
+    "gender": "Male",
+    "episode": [
+      8,
+      18,
+      21
+    ]
+  },
+  {
+    "id": 359,
+    "name": "Tortured Morty",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Toxic Morty",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Morty's toxic side",
+    "gender": "Male",
+    "episode": [
+      27
+    ]
+  },
+  {
+    "id": 361,
+    "name": "Toxic Rick",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Rick's toxic side",
+    "gender": "Male",
+    "episode": [
+      27
+    ]
+  },
+  {
+    "id": 362,
+    "name": "Traflorkian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Traflorkian",
+    "gender": "unknown",
+    "episode": [
+      11,
+      13,
+      19,
+      21,
+      25
+    ]
+  },
+  {
+    "id": 363,
+    "name": "Trandor",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Krootabulan",
+    "gender": "Male",
+    "episode": [
+      30
+    ]
+  },
+  {
+    "id": 364,
+    "name": "Tree Person",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Teenyverse inhabitant",
+    "gender": "unknown",
+    "episode": [
+      17
+    ]
+  },
+  {
+    "id": 365,
+    "name": "Tricia Lange",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      26,
+      27,
+      36,
+      38
+    ]
+  },
+  {
+    "id": 366,
+    "name": "Trunk Morty",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Trunk-Person",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 367,
+    "name": "Trunk Man",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Trunk-Person",
+    "gender": "Male",
+    "episode": [
+      8,
+      28
+    ]
+  },
+  {
+    "id": 368,
+    "name": "Truth Tortoise",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "type": "Omniscient being",
+    "gender": "Male",
+    "episode": [
+      29
+    ]
+  },
+  {
+    "id": 369,
+    "name": "Tusked Assassin",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Tuskfish",
+    "gender": "Male",
+    "episode": [
+      26
+    ]
+  },
+  {
+    "id": 370,
+    "name": "Two Guys with Handlebar Mustaches",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 371,
+    "name": "Tumblorkian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Tumblorkian",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 372,
+    "name": "Unity",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Hivemind",
+    "gender": "Genderless",
+    "episode": [
+      14
+    ]
+  },
+  {
+    "id": 373,
+    "name": "Unmuscular Michael",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 374,
+    "name": "Vampire Master",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Vampire",
+    "gender": "Male",
+    "episode": [
+      18
+    ]
+  },
+  {
+    "id": 375,
+    "name": "Vance Maximus",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      25
+    ]
+  },
+  {
+    "id": 376,
+    "name": "Veronica Ann Bennet",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Gazorpian",
+    "gender": "Female",
+    "episode": [
+      7
+    ]
+  },
+  {
+    "id": 377,
+    "name": "Voltematron",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "unknown",
+    "episode": [
+      29
+    ]
+  },
+  {
+    "id": 378,
+    "name": "Wall Crawling Rick",
+    "status": "unknown",
+    "species": "Humanoid",
+    "type": "Lizard-Person",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 379,
+    "name": "Wedding Bartender",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      21
+    ]
+  },
+  {
+    "id": 380,
+    "name": "Weird Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 381,
+    "name": "Woman Rick",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Chair",
+    "gender": "Female",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 382,
+    "name": "Worldender",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      25
+    ]
+  },
+  {
+    "id": 383,
+    "name": "Yaarb",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 384,
+    "name": "Yellow Headed Doctor",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 385,
+    "name": "Yellow Shirt Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 386,
+    "name": "Zarbadar Gloonch",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Drumbloxian",
+    "gender": "Female",
+    "episode": [
+      13,
+      18
+    ]
+  },
+  {
+    "id": 387,
+    "name": "Zarbadar's Mytholog",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "type": "Mytholog",
+    "gender": "Female",
+    "episode": [
+      18
+    ]
+  },
+  {
+    "id": 388,
+    "name": "Zeep Xanflorp",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Microverse inhabitant",
+    "gender": "Male",
+    "episode": [
+      17
+    ]
+  },
+  {
+    "id": 389,
+    "name": "Zeta Alpha Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10,
+      11,
+      22
+    ]
+  },
+  {
+    "id": 390,
+    "name": "Zick Zack",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Floop Floopian",
+    "gender": "Male",
+    "episode": [
+      29
+    ]
+  },
+  {
+    "id": 391,
+    "name": "Uncle Steve",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Parasite",
+    "gender": "Male",
+    "episode": [
+      15
+    ]
+  },
+  {
+    "id": 392,
+    "name": "Bearded Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 393,
+    "name": "Roy",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Game",
+    "gender": "Male",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 394,
+    "name": "Davin",
+    "status": "Dead",
+    "species": "Cronenberg",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": 395,
+    "name": "Greebybobe",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Greebybobe",
+    "gender": "unknown",
+    "episode": [
+      1,
+      11,
+      16,
+      25
+    ]
+  },
+  {
+    "id": 396,
+    "name": "Scary Teacher",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Monster",
+    "gender": "Male",
+    "episode": [
+      2
+    ]
+  },
+  {
+    "id": 397,
+    "name": "Fido",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Dog",
+    "gender": "Male",
+    "episode": [
+      2
+    ]
+  },
+  {
+    "id": 398,
+    "name": "Accountant dog",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Dog",
+    "gender": "Male",
+    "episode": [
+      2
+    ]
+  },
+  {
+    "id": 399,
+    "name": "Tiny-persons advocacy group lawyer",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Giant",
+    "gender": "Male",
+    "episode": [
+      5
+    ]
+  },
+  {
+    "id": 400,
+    "name": "Giant Judge",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Giant",
+    "gender": "Male",
+    "episode": [
+      5
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Morty Jr's interviewer",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      7
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Guy from The Bachelor",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Corn detective",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Corn-person",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 404,
+    "name": "Michael Jackson",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Phone-Person",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Trunkphobic suspenders guy",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      2,
+      8,
+      10,
+      11
+    ]
+  },
+  {
+    "id": 406,
+    "name": "Spiderweb teddy bear",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Teddy Bear",
+    "gender": "unknown",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 407,
+    "name": "Regular Tyrion Lannister",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 408,
+    "name": "Quick Mystery Presenter",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 409,
+    "name": "Mr. Sneezy",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Little Human",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 410,
+    "name": "Two Brothers",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 411,
+    "name": "Alien Mexican Armada",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Mexican",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Giant Cat Monster",
+    "status": "unknown",
+    "species": "Animal",
+    "type": "Giant Cat Monster",
+    "gender": "unknown",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 413,
+    "name": "Old Women",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Old Amazons",
+    "gender": "Female",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 414,
+    "name": "Trunkphobic guy",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 415,
+    "name": "Pro trunk people marriage guy",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 416,
+    "name": "Muscular Mannie",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Mannie",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 417,
+    "name": "Baby Legs Chief",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 418,
+    "name": "Mrs. Sullivan's Boyfriend",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Necrophiliac",
+    "gender": "Male",
+    "episode": [
+      8
+    ]
+  },
+  {
+    "id": 419,
+    "name": "Plutonian Hostess",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Plutonian",
+    "gender": "Female",
+    "episode": [
+      9
+    ]
+  },
+  {
+    "id": 420,
+    "name": "Plutonian Host",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Plutonian",
+    "gender": "Male",
+    "episode": [
+      9
+    ]
+  },
+  {
+    "id": 421,
+    "name": "Rich Plutonian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Plutonian",
+    "gender": "Female",
+    "episode": [
+      9
+    ]
+  },
+  {
+    "id": 422,
+    "name": "Rich Plutonian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Plutonian",
+    "gender": "Male",
+    "episode": [
+      9
+    ]
+  },
+  {
+    "id": 423,
+    "name": "Synthetic Laser Eels",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Eel",
+    "gender": "unknown",
+    "episode": [
+      11
+    ]
+  },
+  {
+    "id": 424,
+    "name": "Pizza-person",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Pizza",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 425,
+    "name": "Pizza-person",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Pizza",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 426,
+    "name": "Greasy Grandma",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Grandma",
+    "gender": "Female",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 427,
+    "name": "Phone-person",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Phone",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 428,
+    "name": "Phone-person",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Phone",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 429,
+    "name": "Chair-person",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Chair",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 430,
+    "name": "Chair-person",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Chair",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 431,
+    "name": "Chair-homeless",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Chair",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 432,
+    "name": "Chair-waiter",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Chair",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 433,
+    "name": "Doopidoo",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Doopidoo",
+    "gender": "unknown",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 434,
+    "name": "Super Weird Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      10
+    ]
+  },
+  {
+    "id": 435,
+    "name": "Pripudlian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Pripudlian",
+    "gender": "unknown",
+    "episode": [
+      1,
+      11,
+      19,
+      25
+    ]
+  },
+  {
+    "id": 436,
+    "name": "Giant Testicle Monster",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      11,
+      13
+    ]
+  },
+  {
+    "id": 437,
+    "name": "Michael",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      12
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Michael's Lawyer",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      12
+    ]
+  },
+  {
+    "id": 439,
+    "name": "Veterinary",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      12
+    ]
+  },
+  {
+    "id": 440,
+    "name": "Veterinary Nurse",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      12
+    ]
+  },
+  {
+    "id": 441,
+    "name": "Bearded Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 442,
+    "name": "Shaved Head Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 443,
+    "name": "Tank Top Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 444,
+    "name": "Pink Polo Shirt Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 445,
+    "name": "Jerryboree Keeper",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 446,
+    "name": "Jerryboree Receptionist",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 447,
+    "name": "Anchor Gear",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Gear-Person",
+    "gender": "Male",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 448,
+    "name": "Gear Cop",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gear-Person",
+    "gender": "Male",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 449,
+    "name": "Roy's Mum",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Game",
+    "gender": "Female",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 450,
+    "name": "Roy's Wife",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Game",
+    "gender": "Male",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 451,
+    "name": "Roy's Son",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Game",
+    "gender": "Male",
+    "episode": [
+      13
+    ]
+  },
+  {
+    "id": 452,
+    "name": "Simon",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      16
+    ]
+  },
+  {
+    "id": 453,
+    "name": "Vampire Master's Assistant",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Vampire",
+    "gender": "Male",
+    "episode": [
+      18
+    ]
+  },
+  {
+    "id": 454,
+    "name": "Arbolian Mentirososian",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      16,
+      19,
+      21
+    ]
+  },
+  {
+    "id": 455,
+    "name": "St. Gloopy Noops Nurse",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 456,
+    "name": "Nano Doctor",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Nano Alien",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 457,
+    "name": "Funny Songs Presenter",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 458,
+    "name": "Tax Attorney",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 459,
+    "name": "Butthole Ice Cream Guy",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 460,
+    "name": "Traflorkian Journalist",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Traflorkian",
+    "gender": "Male",
+    "episode": [
+      19
+    ]
+  },
+  {
+    "id": 461,
+    "name": "Communication's Responsible Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 462,
+    "name": "Teleportation's Responsible Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 463,
+    "name": "SEAL Team Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 464,
+    "name": "SEAL Team Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 465,
+    "name": "SEAL Team Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 466,
+    "name": "SEAL Team Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 467,
+    "name": "Morphizer-XE Customer Support",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      26
+    ]
+  },
+  {
+    "id": 468,
+    "name": "Morphizer-XE Customer Support",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      26
+    ]
+  },
+  {
+    "id": 469,
+    "name": "Morphizer-XE Customer Support",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      26
+    ]
+  },
+  {
+    "id": 470,
+    "name": "Alien Spa Employee",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      27
+    ]
+  },
+  {
+    "id": 471,
+    "name": "Little Voltron",
+    "status": "Alive",
+    "species": "Robot",
+    "type": "",
+    "gender": "Genderless",
+    "episode": [
+      27
+    ]
+  },
+  {
+    "id": 472,
+    "name": "Baby Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Clone",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 473,
+    "name": "Bartender Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 474,
+    "name": "Dancer Cowboy Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 475,
+    "name": "Dancer Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 476,
+    "name": "Flower Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Human with a flower in his head",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 477,
+    "name": "Hairdresser Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 478,
+    "name": "Journalist Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 479,
+    "name": "Private Sector Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 480,
+    "name": "Purple Morty",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 481,
+    "name": "Retired General Rick",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 482,
+    "name": "Secret Service Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 483,
+    "name": "Steve Jobs Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 484,
+    "name": "Sheik Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 485,
+    "name": "Modern Rick",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 486,
+    "name": "Tan Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 487,
+    "name": "Visor Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 488,
+    "name": "Colonial Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 489,
+    "name": "P-Coat Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      28
+    ]
+  },
+  {
+    "id": 490,
+    "name": "Chang",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      29
+    ]
+  },
+  {
+    "id": 491,
+    "name": "Dr. Eleanor Arroway",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      29
+    ]
+  },
+  {
+    "id": 492,
+    "name": "Varrix",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "unknown",
+    "episode": [
+      30
+    ]
+  },
+  {
+    "id": 493,
+    "name": "Secretary of the Interior",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      31
+    ]
+  },
+  {
+    "id": 494,
+    "name": "Crystal Poacher",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 495,
+    "name": "Crystal Poacher",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 496,
+    "name": "Crystal Poacher",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 497,
+    "name": "Hologram Rick",
+    "status": "Dead",
+    "species": "Humanoid",
+    "type": "Hologram",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 498,
+    "name": "Fascist Rick",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 499,
+    "name": "Fascist Morty",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 500,
+    "name": "Fascist Mr. President",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 501,
+    "name": "Fascist Rick\u2019s Clone",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Clone",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 502,
+    "name": "Revolio Clockberg Jr.",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gear-Person",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 503,
+    "name": "Fascist Shrimp Rick",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Shrimp",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 504,
+    "name": "Fascist Shrimp Rick\u2019s Clone",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Shrimp",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 505,
+    "name": "Fascist Shrimp Morty",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Shrimp",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 506,
+    "name": "Fascist Shrimp SS",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Shrimp",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 507,
+    "name": "Fascist Teddy Bear Rick",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Teddy Bear",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 508,
+    "name": "Fascist Teddy Bear Rick\u2019s Clone",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Teddy Bear",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 509,
+    "name": "Bully",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 510,
+    "name": "Anchorman",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 511,
+    "name": "Anchorwoman",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 512,
+    "name": "Morty\u2019s Lawyer",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 513,
+    "name": "Judge",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 514,
+    "name": "Public Opinion Judge",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 515,
+    "name": "Caterpillar Mr. Goldenfold",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Caterpillar",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 516,
+    "name": "Wasp Rick",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Wasp",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 517,
+    "name": "Wasp Rick\u2019s Clone",
+    "status": "unknown",
+    "species": "Animal",
+    "type": "Wasp",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 518,
+    "name": "Wasp Morty",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Wasp",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 519,
+    "name": "Wasp Summer",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Wasp",
+    "gender": "Female",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 520,
+    "name": "Wasp Jerry",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Wasp",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 521,
+    "name": "Wasp Beth",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Wasp",
+    "gender": "Female",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 522,
+    "name": "Caterpillar Mr. Goldenfold\u2019s Larvae",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Caterpillar",
+    "gender": "unknown",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 523,
+    "name": "Boglin",
+    "status": "unknown",
+    "species": "unknown",
+    "type": "Toy",
+    "gender": "unknown",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 524,
+    "name": "Kirkland Brand Mr. Meeseeks",
+    "status": "unknown",
+    "species": "Humanoid",
+    "type": "Meeseeks",
+    "gender": "Male",
+    "episode": [
+      32
+    ]
+  },
+  {
+    "id": 525,
+    "name": "Glootie",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Monogatron",
+    "gender": "Male",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 526,
+    "name": "Danny Publitz",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 527,
+    "name": "Mothership Intern",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Monogatron",
+    "gender": "Male",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 528,
+    "name": "Monogatron Leader",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Monogatron",
+    "gender": "Male",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 529,
+    "name": "Lizard",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Lizard",
+    "gender": "Male",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 530,
+    "name": "Deliverance",
+    "status": "Dead",
+    "species": "Robot",
+    "type": "",
+    "gender": "Genderless",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 531,
+    "name": "Tony",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 532,
+    "name": "Tony\u2019s Wife",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 533,
+    "name": "Monogatron Queen",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Monogatron",
+    "gender": "Female",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 534,
+    "name": "Tony's Dad",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 535,
+    "name": "Jeff",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 536,
+    "name": "Josiah",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 537,
+    "name": "Maggie",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 538,
+    "name": "Priest Witherspoon",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 539,
+    "name": "Richard",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 540,
+    "name": "Running Bird",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 541,
+    "name": "Secretary at Tony's",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 542,
+    "name": "Mountain Sweat Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 543,
+    "name": "Vermigurber",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Fly",
+    "gender": "Male",
+    "episode": [
+      33
+    ]
+  },
+  {
+    "id": 544,
+    "name": "Miles Knightly",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 545,
+    "name": "Heist-Con Receptionist",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 546,
+    "name": "Angie Flint",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Cyborg",
+    "gender": "Female",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 547,
+    "name": "Glar",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 548,
+    "name": "Truckula",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Vampire",
+    "gender": "Male",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 549,
+    "name": "Snake Arms",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 550,
+    "name": "Double Microwawe",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Cyborg",
+    "gender": "Male",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 551,
+    "name": "Monitor Lord",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 552,
+    "name": "Key Catcher",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 553,
+    "name": "The Shapeshiftress",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Shapeshifter",
+    "gender": "Female",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 554,
+    "name": "Heistotron",
+    "status": "Dead",
+    "species": "Robot",
+    "type": "",
+    "gender": "Genderless",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 555,
+    "name": "Randotron",
+    "status": "Dead",
+    "species": "Robot",
+    "type": "",
+    "gender": "Genderless",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 556,
+    "name": "Hephaestus",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "God",
+    "gender": "Male",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 557,
+    "name": "Ventriloquiver",
+    "status": "Alive",
+    "species": "Humanoid",
+    "type": "Dummy",
+    "gender": "Female",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 558,
+    "name": "Elon Tusk",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Human with tusks",
+    "gender": "Male",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 559,
+    "name": "Gramuflackian Anchorman",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gramuflackian",
+    "gender": "Male",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 560,
+    "name": "Gramuflackian General",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Gramuflackian",
+    "gender": "Male",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 561,
+    "name": "Netflix Executive",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      34
+    ]
+  },
+  {
+    "id": 562,
+    "name": "Balthromaw",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Dragon",
+    "gender": "Male",
+    "episode": [
+      35
+    ]
+  },
+  {
+    "id": 563,
+    "name": "The Wizard",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      35
+    ]
+  },
+  {
+    "id": 564,
+    "name": "Talking Cat",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      35
+    ]
+  },
+  {
+    "id": 565,
+    "name": "Debrah",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Dragon",
+    "gender": "Male",
+    "episode": [
+      35
+    ]
+  },
+  {
+    "id": 566,
+    "name": "Debrah\u2019s Partner",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Dragon",
+    "gender": "Male",
+    "episode": [
+      35
+    ]
+  },
+  {
+    "id": 567,
+    "name": "Michael",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Dragon",
+    "gender": "Male",
+    "episode": [
+      35
+    ]
+  },
+  {
+    "id": 568,
+    "name": "Slut Dragon",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Dragon",
+    "gender": "Male",
+    "episode": [
+      35
+    ]
+  },
+  {
+    "id": 569,
+    "name": "Shadow Jacker",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "type": "Dragon",
+    "gender": "Male",
+    "episode": [
+      35
+    ]
+  },
+  {
+    "id": 570,
+    "name": "Chachi",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      35
+    ]
+  },
+  {
+    "id": 571,
+    "name": "Slippy",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Female",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 572,
+    "name": "Robot Snake",
+    "status": "unknown",
+    "species": "Robot",
+    "type": "Snake",
+    "gender": "Genderless",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 573,
+    "name": "Snake Hitler",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 574,
+    "name": "Snake Lincoln",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 575,
+    "name": "Snake Resistance Robot",
+    "status": "Dead",
+    "species": "Robot",
+    "type": "Human-Snake hybrid",
+    "gender": "Genderless",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 576,
+    "name": "Snake Linguist",
+    "status": "unknown",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 577,
+    "name": "Snake Terminator",
+    "status": "unknown",
+    "species": "Robot",
+    "type": "Snake",
+    "gender": "Male",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 578,
+    "name": "Snake Soldier",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 579,
+    "name": "Snake with Legs",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 580,
+    "name": "Secret Service Snake",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 581,
+    "name": "Anchosnake",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 582,
+    "name": "Anchosnake",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Female",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 583,
+    "name": "80's snake",
+    "status": "unknown",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 584,
+    "name": "Bar Customer",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 585,
+    "name": "Bartender",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 586,
+    "name": "PC Basketball Player",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 587,
+    "name": "Cavesnake",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 588,
+    "name": "Pet Shop Employee",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 589,
+    "name": "Snake Reporter",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Snake",
+    "gender": "Male",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 590,
+    "name": "High Pilot",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 591,
+    "name": "High Pilot",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      36
+    ]
+  },
+  {
+    "id": 592,
+    "name": "Phoenixperson",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Cyborg",
+    "gender": "Male",
+    "episode": [
+      22
+    ]
+  },
+  {
+    "id": 593,
+    "name": "Tickets Please Guy",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 594,
+    "name": "Floaty Bloody Man",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Half Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 595,
+    "name": "Floaty Non-Gasm Brotherhood Member",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 596,
+    "name": "Floaty Non-Gasm Brotherhood Member Friend",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 597,
+    "name": "Abradolf Lincler",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 598,
+    "name": "Biblesaurus",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 599,
+    "name": "Birdperson",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 600,
+    "name": "Cats Fan",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 601,
+    "name": "Christmas Storyteller",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 602,
+    "name": "Cookies Guy",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 603,
+    "name": "Crossy",
+    "status": "Alive",
+    "species": "unknown",
+    "type": "Soulless Puppet",
+    "gender": "Genderless",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 604,
+    "name": "Female Scorpion",
+    "status": "Dead",
+    "species": "Animal",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 605,
+    "name": "Floaty Bloody Man\u2019s Daughter",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 606,
+    "name": "Goomby",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 607,
+    "name": "Hairspray Fan",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 608,
+    "name": "Jesus Christ",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 609,
+    "name": "Josh",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 610,
+    "name": "Josh's Sister",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 611,
+    "name": "Leah",
+    "status": "Alive",
+    "species": "unknown",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 612,
+    "name": "Marcus",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 613,
+    "name": "Mike Johnson",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 614,
+    "name": "Mr. Celery & Friends",
+    "status": "Alive",
+    "species": "unknown",
+    "type": "Soulless Puppet",
+    "gender": "Genderless",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 615,
+    "name": "Musical Fan",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 616,
+    "name": "Phantom of the Opera Fan",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 617,
+    "name": "Phoenixperson",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 618,
+    "name": "Private Smith",
+    "status": "unknown",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 619,
+    "name": "Professor Sanchez",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 620,
+    "name": "Ramamama Lord",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 621,
+    "name": "Ruth Bader Ginsburg",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 622,
+    "name": "Sarge",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 623,
+    "name": "Shrek The Musical Fan",
+    "status": "Alive",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 624,
+    "name": "Snuffles",
+    "status": "Alive",
+    "species": "Animal",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 625,
+    "name": "Storylord",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 626,
+    "name": "Tammy Guetermann",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 627,
+    "name": "The Concept of Time",
+    "status": "Alive",
+    "species": "unknown",
+    "type": "Soulless Puppet",
+    "gender": "Genderless",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 628,
+    "name": "Beth Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 629,
+    "name": "Summer Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 630,
+    "name": "Morty Smith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 631,
+    "name": "Rick Sanchez",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 632,
+    "name": "Train Cop",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 633,
+    "name": "Train Cops",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 634,
+    "name": "Train Cops Instructor",
+    "status": "Dead",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 635,
+    "name": "Darth Poopybutthole",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 636,
+    "name": "Evil Morty",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 637,
+    "name": "Morty\u2019s Disguise",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Female",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 638,
+    "name": "Rick\u2019s Disguise",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 639,
+    "name": "Uncle Nibbles",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Soulless Puppet",
+    "gender": "Male",
+    "episode": [
+      37
+    ]
+  },
+  {
+    "id": 640,
+    "name": "Angry Glorzo",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Glorzo",
+    "gender": "Male",
+    "episode": [
+      38
+    ]
+  },
+  {
+    "id": 641,
+    "name": "Bruce",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Glorzo",
+    "gender": "Male",
+    "episode": [
+      38
+    ]
+  },
+  {
+    "id": 642,
+    "name": "Council of Glorzos Member",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Glorzo",
+    "gender": "Male",
+    "episode": [
+      38
+    ]
+  },
+  {
+    "id": 643,
+    "name": "Council of Glorzos Member",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Glorzo",
+    "gender": "Male",
+    "episode": [
+      38
+    ]
+  },
+  {
+    "id": 644,
+    "name": "Old Glorzo",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Glorzo",
+    "gender": "Male",
+    "episode": [
+      38
+    ]
+  },
+  {
+    "id": 645,
+    "name": "Shane",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Glorzo",
+    "gender": "Male",
+    "episode": [
+      38
+    ]
+  },
+  {
+    "id": 646,
+    "name": "Steve",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Glorzo",
+    "gender": "Male",
+    "episode": [
+      38
+    ]
+  },
+  {
+    "id": 647,
+    "name": "Troy",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "Glorzo",
+    "gender": "Male",
+    "episode": [
+      38
+    ]
+  },
+  {
+    "id": 648,
+    "name": "Crystal Dealers Boss",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      39
+    ]
+  },
+  {
+    "id": 649,
+    "name": "Crystal Dealer",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      39
+    ]
+  },
+  {
+    "id": 650,
+    "name": "Crystal Dealer",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      39
+    ]
+  },
+  {
+    "id": 651,
+    "name": "Crystal Dealer",
+    "status": "Dead",
+    "species": "Alien",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      39
+    ]
+  },
+  {
+    "id": 652,
+    "name": "SWAT Officer",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      39
+    ]
+  },
+  {
+    "id": 653,
+    "name": "Plane Crash Survivor",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      39
+    ]
+  },
+  {
+    "id": 654,
+    "name": "Plane Crash Survivor",
+    "status": "unknown",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      39
+    ]
+  },
+  {
+    "id": 655,
+    "name": "Heroine Keith",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      39
+    ]
+  },
+  {
+    "id": 656,
+    "name": "Impervious to Acid SWAT Officer",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      39
+    ]
+  },
+  {
+    "id": 657,
+    "name": "Johnny Carson",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      39
+    ]
+  },
+  {
+    "id": 658,
+    "name": "Sonia Sotomayor",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      39
+    ]
+  },
+  {
+    "id": 659,
+    "name": "Morty\u2019s Father-in-law",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "episode": [
+      39
+    ]
+  },
+  {
+    "id": 660,
+    "name": "Morty\u2019s Mother-in-law",
+    "status": "Alive",
+    "species": "Human",
+    "type": "",
+    "gender": "Female",
+    "episode": [
+      39
+    ]
+  }
+]

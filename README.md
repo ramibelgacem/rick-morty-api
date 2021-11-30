@@ -1,5 +1,7 @@
 # rick-morty-api
 
-pip3.9 install -r requirements.txt
+pip install -r requirements.txt
 
 uvicorn main:app --reload
+
+python script/load.py

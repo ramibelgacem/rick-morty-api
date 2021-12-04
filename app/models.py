@@ -2,7 +2,7 @@ from sqlalchemy import Column, ForeignKey, Integer, String
 from sqlalchemy.orm import relationship
 from sqlalchemy.schema import Table
 
-from database import Base
+from app.database import Base
 
 episode_character_table = Table(
     'episode_character', Base.metadata,

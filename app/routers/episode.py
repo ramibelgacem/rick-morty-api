@@ -3,9 +3,9 @@ from typing import List
 from fastapi import APIRouter, Depends, status
 from sqlalchemy.orm import Session
 
-import database
-import models
-from schemas import episode
+from app import database
+from app import models
+from app.schemas import episode
 
 router = APIRouter(
     prefix='/episode',

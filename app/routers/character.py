@@ -5,16 +5,16 @@ from sqlalchemy.orm import Session
 
 from app import database
 from app import models
-from app.schemas import episode
+from app.schemas import character
 
 router = APIRouter(
-    prefix='/episode',
-    tags=['Episode']
+    prefix='/character',
+    tags=['Character']
 )
 
 
 @router.get('/',
-            response_model=List[episode.EpisodeOut],
+            response_model=List[character.CharacterOut],
             status_code=status.HTTP_200_OK)
-def episodes(db: Session = Depends(database.get_db)):
-    return db.query(models.Episode).all()
+def characters(db: Session = Depends(database.get_db)):
+    return db.query(models.Character).all()

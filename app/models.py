@@ -1,4 +1,6 @@
-from sqlalchemy import Column, ForeignKey, Integer, String
+import datetime
+
+from sqlalchemy import Column, DateTime, ForeignKey, Integer, String, Text
 from sqlalchemy.orm import relationship
 from sqlalchemy.schema import Table
 
@@ -22,10 +24,12 @@ class Episode(Base):
         "Character",
         secondary=episode_character_table,
         back_populates="episodes")
+    comments = relationship("Comment", back_populates="episode")
 
 
 class Character(Base):
     __tablename__ = 'characters'
+
     id = Column(Integer, primary_key=True)
     name = Column(String)
     status = Column(String)
@@ -36,3 +40,14 @@ class Character(Base):
         "Episode",
         secondary=episode_character_table,
         back_populates="characters")
+
+
+class Comment(Base):
+    __tablename__ = 'comments'
+
+    id = Column(Integer, primary_key=True)
+    created_date = Column(DateTime, default=datetime.datetime.utcnow)
+    message = Column(Text)
+
+    episode_id = Column(Integer, ForeignKey("episodes.id"))
+    episode = relationship("Episode", back_populates="comments")

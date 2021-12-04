@@ -19,3 +19,7 @@ class CharacterBase(BaseModel):
 
     class Config:
         orm_mode = True
+
+
+class CommentBase(BaseModel):
+    message: str

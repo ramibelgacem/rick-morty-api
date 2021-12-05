@@ -32,15 +32,16 @@ def test_create_comment_for_episode():
     )
 
     assert response.status_code == status.HTTP_201_CREATED, response.text
-    comment = response.json()
-    assert comment["message"] == "Testing a new comment for an episode"
-    assert "created_date" in comment
+    created_comment = response.json()
+    assert created_comment["message"] == "Testing a new comment for an episode"
+    assert "created_date" in created_comment
 
-    response = get_episodes()
-    episodes = response.json()
-    first_episode = episodes[0]
-    last_comment = first_episode["comments"][-1]
-    assert last_comment == comment
+    comment_id = created_comment["id"]
+    response = client.get(f"/comment/{comment_id}")
+    assert response.status_code == 200, response.text
+    returned_comment = response.json()
+    assert returned_comment["id"] == comment_id
+    assert returned_comment == created_comment
 
 
 def test_create_comment_for_episode_with_nonexistant_id():

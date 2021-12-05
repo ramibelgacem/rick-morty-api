@@ -62,8 +62,8 @@ def import_data(cur, conn):
                          for x in list(episode.values())]
                     )
 
-                    sql_string = f"INSERT INTO {table_name} ({columns}) \
-                                    VALUES ({values})"
+                    sql_string = f"INSERT INTO \
+                        {table_name} ({columns}) VALUES ({values})"
 
                     cur.execute(sql_string)
                     conn.commit()

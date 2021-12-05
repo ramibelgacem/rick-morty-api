@@ -17,6 +17,8 @@ router = APIRouter(
             response_model=List[character.CharacterOut],
             status_code=status.HTTP_200_OK)
 def characters(
+        offset: int = 0,
+        limit: int = 10,
         name: Optional[str] = None,
         status: Optional[str] = None,
         gender: Optional[str] = None,
@@ -26,7 +28,7 @@ def characters(
             'name': name,
             'status': status,
             'gender': gender,
-        })).all()
+        })).offset(offset).limit(limit).all()
 
 
 @router.post(

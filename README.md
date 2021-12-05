@@ -70,3 +70,17 @@ Open the navigator and access to this URL: http://0.0.0.0:8000/docs, you will fi
     - Return 404 not found status if the comment does not exist
 - DELETE --> /comment/{comment_id}: to delete a comment
     - Return 404 not found status if the comment does not exist
+
+**Episode**
+- GET --> /episode/: to read episodes
+    - Return all the episodes
+- POST --> /episode/{episode_id}/comment: to create a new comment for the episode passed in the path parameter
+    - Return the new created comment
+    - Return 404 not found status if the episode does not exist
+
+**Character**
+- GET --> /character/: to read character
+    - Return characters based on limit and offset query parameters, we can also filtering by name, status and gender
+- POST --> /character/{character_id}/comment: to create a new comment for the character passed in the path parameter
+    - Return the new created comment
+    - Return 404 not found status if the character does not exist

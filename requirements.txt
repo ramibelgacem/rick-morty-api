@@ -2,5 +2,6 @@ bcrypt
 fastapi
 passlib
 psycopg2
+python-decouple
 sqlalchemy
 uvicorn

@@ -1,10 +1,11 @@
-from typing import List
+from typing import List, Optional
 
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
 
 from app import database, models
 from app.schemas import base, character, comment
+from app.routers.utils import build_filters
 
 router = APIRouter(
     prefix='/character',
@@ -15,8 +16,17 @@ router = APIRouter(
 @router.get('/',
             response_model=List[character.CharacterOut],
             status_code=status.HTTP_200_OK)
-def characters(db: Session = Depends(database.get_db)):
-    return db.query(models.Character).all()
+def characters(
+        name: Optional[str] = None,
+        status: Optional[str] = None,
+        gender: Optional[str] = None,
+        db: Session = Depends(database.get_db)):
+    return db.query(models.Character).filter(
+        *build_filters(models.Character, {
+            'name': name,
+            'status': status,
+            'gender': gender,
+        })).all()
 
 
 @router.post(

@@ -17,12 +17,14 @@ router = APIRouter(
             response_model=List[comment.CommentOut],
             status_code=status.HTTP_200_OK)
 def comments(
+        offset: int = 0,
+        limit: int = 5,
         message: Optional[str] = None,
         db: Session = Depends(database.get_db)):
     return db.query(models.Comment).filter(
         *build_filters(models.Comment, {
             'message': message,
-        })).all()
+        })).offset(offset).limit(limit).all()
 
 
 @router.get('/{comment_id}',

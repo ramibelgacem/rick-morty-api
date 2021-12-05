@@ -10,8 +10,3 @@ app = FastAPI()
 app.include_router(episode.router)
 app.include_router(character.router)
 app.include_router(comment.router)
-
-
-@app.get("/")
-def home():
-    return {"Detail": "First Endpoint"}

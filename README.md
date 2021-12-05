@@ -84,3 +84,24 @@ Open the navigator and access to this URL: http://0.0.0.0:8000/docs, you will fi
 - POST --> /character/{character_id}/comment: to create a new comment for the character passed in the path parameter
     - Return the new created comment
     - Return 404 not found status if the character does not exist
+
+## Notes
+I had no knowledge of the FastAPI framework, so i took some time to learn it. I would love to continue reading and practicing with the framework's documentation.
+    - 2 days to learn the basics
+    - 3 days to build this project
+
+Obstacles that i faced:
+- Type annotation: a new think that i learned
+- Circular imports in schemas files: i found that i can use TYPE_CHECKING, but i created a base file to keep it simple
+- from app.foo import bar: this didn't work for me in the project's python files, so i figure it out by running uvicorn with app.main:app and not main:app
+
+Features that were not developed in this project:
+- Pagination
+- JWT Authentication
+- Comments CSV export
+
+Improvments in my mind that can be done:
+- Split databases operations from routes files into a new directory called crud
+- Clean repeated code to put it in one location (DRY)
+- Import data on fastapi event 'startup'
+- Run unit tests on a clean database and delete it in the end

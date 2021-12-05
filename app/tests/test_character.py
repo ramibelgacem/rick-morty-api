@@ -12,15 +12,31 @@ CHARACTER_ID = 1
 NOT_FOUND_CHARACETR_ID = 9999
 
 
-def get_characters():
-    return client.get("/character")
+def get_characters(url):
+    return client.get(url)
 
 
 def test_read_characters():
-    response = get_characters()
+    response = get_characters("/character")
 
     assert response.status_code == status.HTTP_200_OK
-    # assert len(response.json()) == 660
+    assert len(response.json()) == 10
+
+
+def test_read_20_characters():
+    response = get_characters("/character?limit=20")
+
+    assert response.status_code == status.HTTP_200_OK
+    assert len(response.json()) == 20
+
+
+def test_read_characters_with_gender_filter():
+    response = get_characters("/character/?limit=1&gender=Female")
+    character = response.json()
+
+    assert response.status_code == status.HTTP_200_OK
+    assert len(character) == 1
+    assert character[0]['gender'] == 'Female'
 
 
 def test_create_comment_for_character():

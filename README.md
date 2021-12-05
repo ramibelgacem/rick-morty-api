@@ -87,8 +87,8 @@ Open the navigator and access to this URL: http://0.0.0.0:8000/docs, you will fi
 
 ## Notes
 I had no knowledge of the FastAPI framework, so i took some time to learn it. I would love to continue reading and practicing with the framework's documentation.
-    - 2 days to learn the basics
-    - 3 days to build this project
+- 2 days to learn the basics
+- 3 days to build this project
 
 Obstacles that i faced:
 - Type annotation: a new think that i learned

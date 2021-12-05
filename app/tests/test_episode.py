@@ -9,6 +9,7 @@ app.dependency_overrides[get_db] = override_get_db
 
 client = TestClient(app)
 EPISODE_ID = 1
+NOT_FOUND_EPISODE_ID = 999
 
 
 def get_episodes():
@@ -40,3 +41,16 @@ def test_create_comment_for_episode():
     first_episode = episodes[0]
     last_comment = first_episode["comments"][-1]
     assert last_comment == comment
+
+
+def test_create_comment_for_episode_with_nonexistant_id():
+    response = client.post(
+        f"/episode/{NOT_FOUND_EPISODE_ID}/comment",
+        json={
+            "message": "Testing a new comment with non existant ID"
+        }
+    )
+
+    assert response.status_code == status.HTTP_404_NOT_FOUND, response.text
+    assert response.json() == {
+        "detail": f"Episode with id={NOT_FOUND_EPISODE_ID} not Found"}

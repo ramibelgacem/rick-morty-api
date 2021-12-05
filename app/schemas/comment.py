@@ -1,5 +1,4 @@
 import datetime
-from typing import Optional
 
 from app.schemas.base import CommentBase
 

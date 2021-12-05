@@ -2,7 +2,6 @@
 
 This API allow us to manipulate **Episodes**, **Characters** and **Comments** data.
 
-
 ## Requirements
 - python (3.9+)
 - postgresql
@@ -38,6 +37,10 @@ uvicorn app.main:app --reload
 - Load data to your database by running the script
 ```
 python script/load.py
-``` 
+```
+
 ## How to use it
 Open the navigator and access to this URL: http://0.0.0.0:8000/docs, you will find all the APIs available
+
+## Misc
+The linter used for this project is flake8

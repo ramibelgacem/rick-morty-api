@@ -43,3 +43,16 @@ def update_comment(
     comment.update(new_comment.dict())
     db.commit()
     return comment.first()
+
+
+@router.delete('/{comment_id}')
+def destory_comment(comment_id: int, db: Session = Depends(database.get_db)):
+    comment = db.query(models.Comment).filter(models.Comment.id == comment_id)
+    if comment.first() is None:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail=f'Comment with id={comment_id} not Found'
+        )
+
+    comment.delete()
+    db.commit()

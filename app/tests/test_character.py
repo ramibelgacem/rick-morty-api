@@ -9,6 +9,7 @@ app.dependency_overrides[get_db] = override_get_db
 
 client = TestClient(app)
 CHARACTER_ID = 1
+NOT_FOUND_CHARACETR_ID = 9999
 
 
 def get_characters():
@@ -40,3 +41,16 @@ def test_create_comment_for_character():
     first_character = characters[0]
     last_comment = first_character["comments"][-1]
     assert last_comment == comment
+
+
+def test_create_comment_for_character_with_nonexistant_id():
+    response = client.post(
+        f"/character/{NOT_FOUND_CHARACETR_ID}/comment",
+        json={
+            "message": "Testing a new comment with non existant ID"
+        }
+    )
+
+    assert response.status_code == status.HTTP_404_NOT_FOUND, response.text
+    assert response.json() == {
+        "detail": f"Character with id={NOT_FOUND_CHARACETR_ID} not Found"}

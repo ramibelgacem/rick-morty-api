@@ -42,7 +42,7 @@ python script/load.py
 ## How to use it
 Open the navigator and access to this URL: http://0.0.0.0:8000/docs, you will find all the APIs available
 
-## How to use it
+## Test
 To run the tests, you need to install pytest with pip
 ```
 pip install pytest

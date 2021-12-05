@@ -8,7 +8,7 @@ from app.tests.database_utils import override_get_db
 app.dependency_overrides[get_db] = override_get_db
 
 client = TestClient(app)
-COMMENT_ID = 2
+COMMENT_ID = 16
 EPISODE_ID = 1
 
 

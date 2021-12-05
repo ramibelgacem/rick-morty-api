@@ -36,7 +36,8 @@ def create_comment_for_user(
         )
     new_comment = models.Comment(
         message=comment.message,
-        episode_id=episode_id)
+        episode_id=episode_id,
+        user_id=comment.user_id)
     db.add(new_comment)
     db.commit()
     db.refresh(new_comment)

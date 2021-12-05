@@ -25,6 +25,7 @@ class CharacterBase(BaseModel):
 
 class CommentBase(BaseModel):
     message: str
+    user_id: Optional[int]
 
 
 class UserBase(BaseModel):

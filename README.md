@@ -2,6 +2,8 @@
 
 # Requirement
 python3.9+
+postgresql
+a new database
 
 # ENv variables for postgresql connection
 Create a file .env under rick-morty-api directory and put these variables with your values
@@ -16,3 +18,7 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 
 python script/load.py
+
+
+
+flake8

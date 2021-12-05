@@ -40,6 +40,7 @@ class Character(Base):
         "Episode",
         secondary=episode_character_table,
         back_populates="characters")
+    comments = relationship("Comment", back_populates="character")
 
 
 class Comment(Base):
@@ -51,3 +52,6 @@ class Comment(Base):
 
     episode_id = Column(Integer, ForeignKey("episodes.id"))
     episode = relationship("Episode", back_populates="comments")
+
+    character_id = Column(Integer, ForeignKey("characters.id"))
+    character = relationship("Character", back_populates="comments")

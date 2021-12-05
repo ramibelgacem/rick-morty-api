@@ -32,7 +32,7 @@ def create_comment_for_user(
     if episode.first() is None:
         raise HTTPException(
             status_code=status.HTTP_404_NOT_FOUND,
-            detail=f'Blog not Found {episode_id}'
+            detail=f'Episode with id={episode_id} not Found'
         )
     new_comment = models.Comment(
         message=comment.message,

@@ -1,13 +1,28 @@
+from typing import List, Optional
+
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
 
 from app import database, models
 from app.schemas import base, comment
+from app.routers.utils import build_filters
 
 router = APIRouter(
     prefix='/comment',
     tags=['Comment']
 )
+
+
+@router.get('/',
+            response_model=List[comment.CommentOut],
+            status_code=status.HTTP_200_OK)
+def comments(
+        message: Optional[str] = None,
+        db: Session = Depends(database.get_db)):
+    return db.query(models.Comment).filter(
+        *build_filters(models.Comment, {
+            'message': message,
+        })).all()
 
 
 @router.get('/{comment_id}',

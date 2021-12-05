@@ -2,7 +2,7 @@ def build_filters(model, attributes):
     filters = []
     for attribute in attributes:
         if attributes[attribute]:
-            if attribute in ['name']:
+            if attribute in ['name', 'message']:
                 filters.append(
                     getattr(model, attribute).ilike(
                         f"%{attributes[attribute]}%")

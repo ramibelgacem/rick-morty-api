@@ -43,4 +43,30 @@ python script/load.py
 Open the navigator and access to this URL: http://0.0.0.0:8000/docs, you will find all the APIs available
 
 ## Misc
-The linter used for this project is flake8
+- The linter used for this project is flake8
+- Pytest is user for testing
+
+## API Documentation
+**Users**
+- POST --> /user/: to create a new user
+    - Return the new created user
+- GET --> /user/{user_id}: to read a user
+    - Return the requested user
+    - Return 404 not found status if the user does not exist
+- PUT --> /user/{user_id}: to update a user
+    - Return the updated user
+    - Return 404 not found status if the user does not exist
+- DELETE --> /user/{user_id}: to delete a user
+    - Return 404 not found status if the user does not exist
+
+**Comment**
+- GET --> /comment/: to read comments
+    - Return comments based on limit and offset query parameters
+- GET --> /comment/{comment_id}: to read a comment
+    - Return the requested comment
+    - Return 404 not found status if the comment does not exist
+- PUT --> /comment/{comment_id}: to update a comment
+    - Return the updated comment
+    - Return 404 not found status if the comment does not exist
+- DELETE --> /comment/{comment_id}: to delete a comment
+    - Return 404 not found status if the comment does not exist

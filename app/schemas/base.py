@@ -1,3 +1,5 @@
+from typing import Optional
+
 from pydantic import BaseModel
 
 
@@ -23,3 +25,7 @@ class CharacterBase(BaseModel):
 
 class CommentBase(BaseModel):
     message: str
+
+
+class UserBase(BaseModel):
+    email: Optional[str] = None

@@ -1,6 +1,7 @@
 import datetime
 
-from sqlalchemy import Column, DateTime, ForeignKey, Integer, String, Text
+from sqlalchemy import Boolean, Column, DateTime, \
+    ForeignKey, Integer, String, Text
 from sqlalchemy.orm import relationship
 from sqlalchemy.schema import Table
 
@@ -43,6 +44,16 @@ class Character(Base):
     comments = relationship("Comment", back_populates="character")
 
 
+class User(Base):
+    __tablename__ = "users"
+
+    id = Column(Integer, primary_key=True, index=True)
+    email = Column(String, unique=True, index=True)
+    hashed_password = Column(String)
+    is_active = Column(Boolean, default=True)
+    comments = relationship("Comment", back_populates="user")
+
+
 class Comment(Base):
     __tablename__ = 'comments'
 
@@ -55,3 +66,6 @@ class Comment(Base):
 
     character_id = Column(Integer, ForeignKey("characters.id"))
     character = relationship("Character", back_populates="comments")
+
+    user_id = Column(Integer, ForeignKey("users.id"))
+    user = relationship("User", back_populates="comments")

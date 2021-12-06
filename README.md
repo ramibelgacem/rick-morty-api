@@ -102,7 +102,7 @@ Obstacles that i faced:
 - Circular imports in schemas files: i found that i can use TYPE_CHECKING, but i created a base file to keep it simple
 - from app.foo import bar: this didn't work for me in the project's python files, so i figure it out by running uvicorn with app.main:app and not main:app
 
-Features that were not developed in this project:
+Features that were not developed in this project (i need more time):
 - Pagination
 - JWT Authentication
 - Comments CSV export
